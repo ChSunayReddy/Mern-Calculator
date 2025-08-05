@@ -9,18 +9,19 @@ A full-stack MERN (MongoDB, Express, React, Node.js) calculator that supports:
 
 ## 📂 Project Structure
 
+```text
 mern-calc/
 │
-├── backend/ # Express backend
-│ └── server.js # Handles REST API routes
+├── backend/                  # Express backend
+│   └── server.js             # Handles REST API routes
 │
-├── frontend/ # React frontend
-│ ├── public/
-│ ├── src/
-│ │ ├── components/
-│ │ │ └── Calculator.jsx # Main calculator component with mode switching
-│ │ └── index.js
-│ └── package.json
+├── frontend/                 # React frontend
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   │   └── Calculator.jsx   # Main calculator component with mode switching
+│   │   └── index.js
+│   └── package.json
 │
 └── README.md
 
