@@ -25,8 +25,7 @@ mern-calc/
 │
 └── README.md
 
----
-
+```
 ## 🚀 Features
 
 ✅ Arithmetic mode: Add, Subtract, Multiply, Divide  
@@ -78,3 +77,7 @@ Backend: Express, Node.js
 Communication: REST API using fetch
 
 Tools: Git, VS Code
+
+```
+##Screen Shot
+<img width="615" height="632" alt="Image" src="https://github.com/user-attachments/assets/91253168-897f-4655-aad6-b0f70db96853" />
